@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+*.h5
+data/
+*.csv
+*.zip
